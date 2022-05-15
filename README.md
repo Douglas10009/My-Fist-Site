@@ -1,4 +1,4 @@
-# My-Fist-Site
+# My-Fist-Site 👨‍💻
 
  "_Hello World_"
  
@@ -10,6 +10,8 @@ Primeiros passos👾:
 - Baixar localmente os arquivos
 - Criar um banco de dados com o nome "login", utilizando o WAMP
 - No banco de dados "login", criar uma tabela "usuarios"
+
+-> Caso seja experiente: Para mudar o nome do banco de dados e outras configurações, vá para o arquivo "conexao.php"
 
 Créditos: https://www.youtube.com/watch?v=30Of7BFeGHI&t=572s
 Feito a partir do vídeo disponibilizado pelo canal: Zero Bugs - Programação em Tutorial.
